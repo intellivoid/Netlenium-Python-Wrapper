@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+.idea
+.coverage
+.vscode
+MANIFEST
+docs/build
+dist/
+build/
+netlenium.egg-info/
+__pycache__
