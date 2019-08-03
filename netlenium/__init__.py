@@ -5,11 +5,13 @@ from netlenium.exceptions import *
 from netlenium.types import DriverType
 from netlenium.types import ProxyScheme
 from netlenium.window import Window
+from netlenium.proxy import Proxy
 
 __all__ = [
     "API",
     "Window",
     "DriverType",
+    "Proxy"
     "ProxyScheme",
     "Client",
     "AdminClient",
