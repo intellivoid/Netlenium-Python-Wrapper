@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='netlenium',
-      version='1.0.0.0',
+      version='1.0.0.1',
       description='Automate Web Browsers such as Chrome, Opera and Firefox  using Netlenium',
       url='https://github.com/intellivoid/Netlenium-Python-Wrapper',
       author='Intellivoid',
